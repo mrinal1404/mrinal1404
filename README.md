@@ -1,5 +1,5 @@
 # 💫 About Me:
-An AI/ML Enthusiast who is exploring the frontier of AI/ML. <br>Building models that learn patterns, generate ideas, and solve real problems.
+An AI/ML Enthusiast who is exploring the frontier of AI/ML. Building models that learn patterns, generate ideas, and solve real problems.
 
 
 ## 🌐 Socials:
