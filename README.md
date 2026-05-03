@@ -1,4 +1,4 @@
-#<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mrinal%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Electronics%20%26%20Communication%20Engineer&descSize=18&descAlignY=58&descColor=a8d8ea" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mrinal%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Electronics%20%26%20Communication%20Engineer&descSize=18&descAlignY=58&descColor=a8d8ea" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrinal--s">
