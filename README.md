@@ -80,16 +80,3 @@ I am an **AI/ML Engineer** with over a year of experience in the field. I specia
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrinal--s">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:mrinals1442003@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>"Data is the new oil — but only if you know how to refine it."</i></p>
