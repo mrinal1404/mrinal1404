@@ -26,26 +26,26 @@ I am an **AI/ML Engineer** skilled in LLMs, multi-agent RAG pipelines, and deep 
 ## 🛠️ Tech Stack
 
 ### **Programming & Machine Learning**
-* **Languages:** Python, SQL[cite: 1]
-* **ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn[cite: 1]
-* **Specializations:** Deep Learning, NLP, Computer Vision, LLMs[cite: 1]
-* **Libraries:** NLTK, Librosa, MediaPipe, OpenCV[cite: 1]
+* **Languages:** Python, SQL
+* **ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn
+* **Specializations:** Deep Learning, NLP, Computer Vision, LLMs
+* **Libraries:** NLTK, Librosa, MediaPipe, OpenCV
 
 ### **GenAI & LLM Stack**
-* **Frameworks:** LangChain, LangGraph, LlamaIndex[cite: 1]
-* **Vector Databases & Retrieval:** FAISS, BM25, RAG (Retrieval-Augmented Generation)[cite: 1]
-* **Core Skills:** Prompt Engineering, Generative AI, Multi-agent Systems[cite: 1]
+* **Frameworks:** LangChain, LangGraph, LlamaIndex
+* **Vector Databases & Retrieval:** FAISS, BM25, RAG (Retrieval-Augmented Generation)
+* **Core Skills:** Prompt Engineering, Generative AI, Multi-agent Systems
 
 ### **Data & Visualization**
-* **Data Processing:** Pandas, NumPy, Feature Engineering[cite: 1]
-* **Visualization:** Matplotlib, Seaborn[cite: 1]
-* **Databases:** MySQL[cite: 1]
+* **Data Processing:** Pandas, NumPy, Feature Engineering
+* **Visualization:** Matplotlib, Seaborn
+* **Databases:** MySQL
 
 ### **Cloud & Development Tools**
-* **Cloud Platforms:** AWS, Microsoft Azure, GCP[cite: 1]
-* **API & Deployment:** FastAPI, Flask, Streamlit[cite: 1]
-* **Version Control & DevOps:** Git, GitHub, CI/CD[cite: 1]
-* **Productivity:** MS Excel[cite: 1]
+* **Cloud Platforms:** AWS, Microsoft Azure, GCP
+* **API & Deployment:** FastAPI, Flask, Streamlit
+* **Version Control & DevOps:** Git, GitHub, CI/CD
+* **Productivity:** MS Excel
 
 ---
 
