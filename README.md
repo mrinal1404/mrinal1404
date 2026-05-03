@@ -22,9 +22,9 @@
 
 > *"Building models that learn patterns, generate ideas, and solve real problems."*
 
-I am an **AI/ML Engineer** with over a year of experience in the field[cite: 1]. I specialize in deploying scalable AI solutions using **Deep Learning**, **NLP**, and **Computer Vision**[cite: 1]. My core focus is on the frontier of **Generative AI**, specifically building intelligent multi-agent systems and high-performance RAG pipelines[cite: 1].
+I am an **AI/ML Engineer** with over a year of experience in the field. I specialize in deploying scalable AI solutions using **Deep Learning**, **NLP**, and **Computer Vision**. My core focus is on the frontier of **Generative AI**, specifically building intelligent multi-agent systems and high-performance RAG pipelines.
 
-- 🎓 **Education:** Bachelor of Engineering in Electronics and Communication at Atria Institute of Technology (2021-2025)[cite: 1].
+- 🎓 **Education:** Bachelor of Engineering in Electronics and Communication at Atria Institute of Technology (2021-2025)].
 - 🚀 **Mission:** Bridging the gap between raw data and actionable AI-driven insights.
 
 ---
