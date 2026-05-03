@@ -3,7 +3,6 @@
 <p align="center">
   📧 <b>Email:</b> mrinals1442003@gmail.com | 
   🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mrinal--s/">linkedin.com/in/mrinal--s/</a> | 
-  🐙 <b>GitHub:</b> <a href="https://github.com/mrinal1404">github.com/mrinal1404</a>
 </p>
 
 <p align="center">
