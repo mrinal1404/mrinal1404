@@ -2,7 +2,7 @@
 
 <p align="center">
   📧 <b>Email:</b> mrinals1442003@gmail.com | 
-  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mrinal--s/">linkedin.com/in/mrinal--s/</a> | 
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mrinal--s/">linkedin.com/in/mrinal--s/</a> 
 </p>
 
 <p align="center">
