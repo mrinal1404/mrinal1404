@@ -41,9 +41,8 @@ I am an **AI/ML Engineer** skilled in LLMs, multi-agent RAG pipelines, and deep 
 * **Databases:** MySQL
 
 ### **Cloud & Development Tools**
-* **Cloud Platforms:** AWS, Microsoft Azure, GCP
 * **API & Deployment:** FastAPI, Flask, Streamlit
-* **Version Control & DevOps:** Git, GitHub, CI/CD
+* **Version Control & DevOps:** Git, GitHub
 * **Productivity:** MS Excel
 
 ---
