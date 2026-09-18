@@ -11,62 +11,24 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 > *"Building models that learn patterns, generate ideas, and solve real problems."*
 
-I am an **AI/ML Engineer** skilled in LLMs, multi-agent RAG pipelines, and deep learning. I specialize in deploying scalable solutions across cloud platforms and have a strong foundation in **Electronics and Communication Engineering**.
-
-- 🎓 **Education:** Bachelor of Engineering, Electronics and Communication | Atria Institute of Technology, VTU (2021-2025)
-- 🚀 **Mission:** Bridging the gap between raw data and actionable AI-driven insights through Generative AI.
 
 ---
 
-## 🛠️ Tech Stack
 
-### **Programming & Machine Learning**
-* **Languages:** Python, SQL
-* **ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn
-* **Specializations:** Deep Learning, NLP, Computer Vision, LLMs
-* **Libraries:** NLTK, Librosa, MediaPipe, OpenCV
-
-### **GenAI & LLM Stack**
-* **Frameworks:** LangChain, LangGraph, LlamaIndex
-* **Vector Databases & Retrieval:** FAISS, BM25, RAG (Retrieval-Augmented Generation)
-* **Core Skills:** Prompt Engineering, Generative AI, Multi-agent Systems
-
-### **Data & Visualization**
-* **Data Processing:** Pandas, NumPy, Feature Engineering
-* **Visualization:** Matplotlib, Seaborn
-* **Databases:** MySQL
-
-### **Cloud & Development Tools**
-* **API & Deployment:** FastAPI, Flask, Streamlit
-* **Version Control & DevOps:** Git, GitHub
-* **Productivity:** MS Excel
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 **[Multi-Agent RAG Assistant](https://github.com/mrinal1404/Multi-Agent-RAG-Research-Assistant)** | Architected a multi-agent LLM pipeline using LangGraph with dedicated agents for retrieval, summarization, and fact-checking. Implemented hybrid FAISS + BM25 retrieval with Reciprocal Rank Fusion (RRF), improving relevance by 38%. | `LangGraph` `LlamaIndex` `FAISS` `FastAPI` `Streamlit` |
-| 💰 **[Personal Finance AI Agent](https://github.com/mrinal1404/Personal-Finance-AI-Agent)** | Developed an intelligent financial assistant capable of analyzing spending patterns and providing personalized budgeting advice. Utilized LLMs to parse unstructured transaction data and generate actionable financial insights. | `Python` `LangChain` `LLMs` `Pandas` `FastAPI` |
-| ⚽ **[Football Player Assessment](https://github.com/mrinal1404/Football-Player-Assessment-System)** | Built a Random Forest regression model to predict player performance ratings with 92% accuracy. Engineered a Variational Autoencoder (VAE) to generate synthetic player profiles for data augmentation. | `Python` `TensorFlow` `Scikit-learn` `VAE` `K-Means` |
-
----
-
-## 💼 Work Experience
-
-* **Business Analyst Intern, Leucine AI** (May 2025 - Nov 2025)
-  * Designed pharma manufacturing workflows on Leucine's DWI platform; automated cross-team business processes ensuring GxP compliance and reducing documentation effort by ~40%.
-* **AI / ML Intern, Eddy Tools** (Jul 2024 - Aug 2024)
-  * Built EfficientNetB0 image analysis pipeline with a custom vectorization system, improving processing throughput by 30%.
-* **Machine Learning Research Intern, NITK Surathkal** (May 2024 - Jun 2024)
-  * Led Groundnut Disease Detection CNN project; pre-processed 7,000+ images and achieved 80% test accuracy via multi-class ROC-AUC-guided tuning.
-* **NLP / AI Project Intern, IIIT Sri City** (Feb 2024 - May 2024)
-  * Enhanced resume screening tool using zero-shot classification; cut screening time by 78% and accelerated the NLP pipeline by 65%.
+|  **[Multi-Agent RAG Assistant](https://github.com/mrinal1404/Multi-Agent-RAG-Research-Assistant)** | Architected a multi-agent LLM pipeline using LangGraph with dedicated agents for retrieval, summarization, and fact-checking. Implemented hybrid FAISS + BM25 retrieval with Reciprocal Rank Fusion (RRF), improving relevance by 38%. | `LangGraph` `LlamaIndex` `FAISS` `FastAPI` `Streamlit` |
+|  **[Personal Finance AI Agent](https://github.com/mrinal1404/Personal-Finance-AI-Agent)** | Developed an intelligent financial assistant capable of analyzing spending patterns and providing personalized budgeting advice. Utilized LLMs to parse unstructured transaction data and generate actionable financial insights. | `Python` `LangChain` `LLMs` `Pandas` `FastAPI` |
+|  **[Football Player Assessment](https://github.com/mrinal1404/Football-Player-Assessment-System)** | Built a Random Forest regression model to predict player performance ratings with 92% accuracy. Engineered a Variational Autoencoder (VAE) to generate synthetic player profiles for data augmentation. | `Python` `TensorFlow` `Scikit-learn` `VAE` `K-Means` |
 
 ---
 
